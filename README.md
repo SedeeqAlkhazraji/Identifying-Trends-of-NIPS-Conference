@@ -13,3 +13,7 @@ Project Tasks
 * Prepare the text for LDA analysis
 * Analysing trends with LDA
 * The future of machine learning
+
+
+## Contributing
+* **Omar Gharbia** {o.gharbia@gmail.com}
